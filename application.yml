@@ -7,4 +7,4 @@ database:
 app:
   database:
     status: "connected"
-    encrypted-password: "{cipher}5312f54e29935ac37503520009408076a409f4ec1490cff8d131734b6373cbbe4907e6c5fd870f1d8c34746cf1efbc36"
+    encrypted-password: "{cipher}beec0ad73244fdf556c04de04e987e1c6de67eb7ec11e47bd9c4a9cc57f23992"

@@ -1,0 +1,10 @@
+# En tu repositorio Git: https://github.com/vicdombel/scc_prueba.git
+database:
+  url: jdbc:mysql://localhost:3306/mi_base_datos
+  username: mi_usuario
+  
+# Datos para mostrar en Angular
+app:
+  database:
+    status: "connected"
+    encrypted-password: "{cipher}5312f54e29935ac37503520009408076a409f4ec1490cff8d131734b6373cbbe4907e6c5fd870f1d8c34746cf1efbc36"

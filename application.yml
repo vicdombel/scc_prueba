@@ -8,3 +8,4 @@ app:
   database:
     status: "connected"
     encrypted-password: "{cipher}beec0ad73244fdf556c04de04e987e1c6de67eb7ec11e47bd9c4a9cc57f23992"
+    password: password_sin_cifrar  # ← SIN {cipher}
